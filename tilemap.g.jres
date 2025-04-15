@@ -1,0 +1,36 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAcERERERERscHMzMzMzMy8wczMzMzMzLzBzMzMzMzMvMHMzMzMzMy8wczMzMzMzLzBzMzMzMzMvMHMzMzMzMy8wczMzMzMzLzBzMzMzMzMvMHMzMzMzMy8wczMzMzMzLzBzMzMzMzMvMHMzMzMzMy8wczMzMzMzLy7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "spot"
+    },
+    "grid1": {
+        "id": "grid1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwODAwMDcwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMjAyMDIwMjAzMDAwMDA4MDkwOTA5MDkwNDAwMDAwODA5MDkwOTA5MDQwMDAwMDgwOTA5MDkwOTA0MDAwMDA4MDkwOTA5MDkwNDAwMDAwNzA2MDYwNjA2MDUwMDAwMDAwMDAwMjIyMjIyMDAwMjAwMjAwMDAyMDAyMDAwMDIwMDIwMDAwMjAwMjAwMDIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.greenOuterNorthWest",
+            "sprites.dungeon.greenOuterNorth0",
+            "sprites.dungeon.greenOuterNorthEast",
+            "sprites.dungeon.greenOuterEast0",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterSouth1",
+            "sprites.dungeon.greenOuterSouthEast",
+            "sprites.dungeon.greenOuterWest0",
+            "myTiles.tile1"
+        ],
+        "displayName": "grid"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
